@@ -1,0 +1,12 @@
+nav {
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.btn {
+    border-radius: 2px;
+    border: 1px solid black;
+    float: left;
+    background-color: transparent;
+    color: black;
+}
